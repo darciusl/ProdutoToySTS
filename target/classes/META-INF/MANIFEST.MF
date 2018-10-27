@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: darcius_cead
+Build-Jdk: 10.0.2
+Implementation-Title: ProdutoToySTS
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.produtoToy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ProdutoToySTS
+Created-By: Maven Integration for Eclipse
+
